@@ -25,19 +25,20 @@ This readme very clearly describes the test process and it's output, it also sho
 
 *groupadd name-of-group*
 <img alt ='#' src='img/004.PNG'>
+<img alt ='#' src='img/006.PNG'>
+
 
 **Adding a user to the group, this command was used**
 
 *usermod -aG name-of-group user*
 <img alt ='#' src='img/005.PNG'>
-<img alt ='#' src='img/006.PNG'>
+<img alt ='#' src='img/008.PNG'>
 
 
 **To confirm if in group, this command was used**
 
 *cat /etc/group*
 <img alt ='#' src='img/007.PNG'>
-<img alt ='#' src='img/008.PNG'>
 
 **To change group owner**
 
